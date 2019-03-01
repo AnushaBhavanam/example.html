@@ -1,5 +1,5 @@
 # example.html
-reading html
+Reading html
 <html>
   <head>
     <p> this is an </p>
