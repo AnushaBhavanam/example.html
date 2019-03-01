@@ -2,7 +2,7 @@
 Reading html
 <html>
   <head>
-    <p> this is an </p>
+    <p> This is an Example </p>
   </head>
   </html>
     
